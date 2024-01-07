@@ -1,10 +1,5 @@
-[workspace]
-members = [ "src/collatz",
-    "src/fibonacci"
-, "src/nested_arrays"]
-
 [package]
-name = "comprehensive-rust-tutorials"
+name = "nested_arrays"
 version = "0.1.0"
 edition = "2021"
 
